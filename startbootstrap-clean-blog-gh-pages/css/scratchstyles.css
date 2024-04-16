@@ -1,0 +1,83 @@
+
+.header{
+    background-image: url(https://www.baltana.com/files/wallpapers-2/Underwater-Wallpapers-03777.jpg);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px;
+    margin: auto;
+    
+}
+/* main page background */
+.background{
+    background-color: rgb(241, 236, 236);
+}
+/* Define heading style */
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Define subheading style */
+.subheading{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* Center stuff */
+.center{
+    text-align: center;
+}
+/* image formatting */
+.imageformat{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+/* Body text format */
+.bodytxt{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.links{
+    text-align: center;
+   font-size: 20px;
+   margin-top: 10px;
+}
+.links a{
+     display: inline-block;
+    margin:0 100px;
+    text-decoration: none;
+    color: #333;
+}
+.links a:hover{
+    color: #aa4b4b;
+}
+.video{
+    text-align: center;
+    font-size: large;
+}
+.tableau{
+    margin: 0 auto;
+    max-width: 800px;
+    position: relative;
+}
+.bold{
+    font-weight: bold;
+}
+.normText{
+    font-weight: lighter;
+}
+.foot{
+    text-align: center;
+    color: black;
+}
